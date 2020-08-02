@@ -1,2 +1,3 @@
 # Codewars
-## Solutions to Codewars problems
+
+Java Noob - trying to learn Java by solving problems from CodeWars.
