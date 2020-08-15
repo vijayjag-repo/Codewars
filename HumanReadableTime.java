@@ -1,6 +1,7 @@
 public class HumanReadableTime {
   public static String makeReadable(int seconds) {
-    // Simple
+    // Question - https://www.codewars.com/kata/52685f7382004e774f0001f7
+    // Simple math. Need to advance to other data structures.
     int hours = 0;
     int mins = 0;
     int secs = 0;
